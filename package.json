@@ -1,7 +1,13 @@
 {
   "name": "tenet",
   "version": "1.0.0",
-  "bin": "tunnel.js",
+  "description": "",
+  "main": "tunnel.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "tetch",
+  "license": "ISC",
   "dependencies": {
     "localtunnel": "^2.0.2"
   }

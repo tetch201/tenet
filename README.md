@@ -3,10 +3,10 @@
 
 
 ```bash
-   git clone https://github.com/tetch201/tenet.git
-   cd *директория*
+   git clone https://github.com/tetch201/tenet
+   cd tenet
 ```
 
 ```bash
-npm install -g localtunnel
+npm init
 ```

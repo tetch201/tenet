@@ -11,7 +11,7 @@
 npm install
 yarn add localtunnel
 ```
-P.S. Предполагается, что у вас уже установлены базовые инструменты: NodeJS (npm, yarn) и Python
+P.S. Предполагается, что у вас уже установлены базовые инструменты: NodeJS (npm, yarn), Python, Git
 
 # Запуск:
 ```bash

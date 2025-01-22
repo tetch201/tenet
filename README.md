@@ -8,5 +8,10 @@
 ```
 
 ```bash
-npm init
+npm install
+yarn add localtunnel
+```
+#Запуск:
+```bash
+node tunnel.js
 ```

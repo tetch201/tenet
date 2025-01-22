@@ -1,0 +1,20 @@
+{
+  "name": "tenet",
+  "version": "1.0.0",
+  "bin": "tunnel.js",
+  "pkg": {
+    "assets": [
+      "yarn.lock",
+      "package.json",
+      "tunnel.js",
+      "server.exe",
+      "client.exe"
+    ],
+    "targets": [
+      "node14-win-x64"
+    ]
+  },
+  "dependencies": {
+    "localtunnel": "^2.0.2"
+  }
+}
